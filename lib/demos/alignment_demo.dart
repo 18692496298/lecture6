@@ -17,6 +17,7 @@ class _AlignmentDemoPageState extends State<AlignmentDemoPage> {
     'MainAxisAlignment.spaceAround',
     'MainAxisAlignment.spaceEvenly',
   ];
+  
   final rowValues = const [
     MainAxisAlignment.start,
     MainAxisAlignment.center,
